@@ -1,0 +1,15 @@
+C:\Users\Peter\AppData\Local\Temporary Projects\Ancilla - Stella\bin\Debug\Ancilla - Stella.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\Ancilla - Stella\bin\Debug\Ancilla - Stella.pdb
+C:\Users\Peter\AppData\Local\Temporary Projects\Ancilla - Stella\obj\x86\Debug\Ancilla - Stella.exe
+C:\Users\Peter\AppData\Local\Temporary Projects\Ancilla - Stella\obj\x86\Debug\Ancilla - Stella.pdb
+C:\Users\Peter\documents\visual studio 2010\Projects\Ancilla - Stella\Ancilla - Stella\obj\x86\Debug\Ancilla - Stella.exe
+C:\Users\Peter\documents\visual studio 2010\Projects\Ancilla - Stella\Ancilla - Stella\obj\x86\Debug\Ancilla - Stella.pdb
+C:\Users\Peter\documents\visual studio 2010\Projects\Ancilla - Stella\Ancilla - Stella\bin\Debug\Resources\book.txt
+C:\Users\Peter\documents\visual studio 2010\Projects\Ancilla - Stella\Ancilla - Stella\bin\Debug\Ancilla - Stella.exe
+C:\Users\Peter\documents\visual studio 2010\Projects\Ancilla - Stella\Ancilla - Stella\bin\Debug\Ancilla - Stella.pdb
+C:\Users\Peter\documents\visual studio 2010\Projects\Ancilla - Stella\Ancilla - Stella\obj\x86\Debug\Ancilla - Stella.csprojResolveAssemblyReference.cache
+C:\Users\Peter\documents\visual studio 2010\Projects\Ancilla - Stella\Ancilla - Stella\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Peter\documents\visual studio 2010\Projects\Ancilla - Stella\Ancilla - Stella\bin\Debug\Resources\dictionary.json
+C:\Users\Peter\documents\visual studio 2010\Projects\Ancilla - Stella\Ancilla - Stella\bin\Debug\Resources\mthesaur.txt
+C:\Users\Unixen\Documents\Visual Studio 2015\Projects\Ancilla - Stella\Ancilla - Stella\obj\x86\Debug\Ancilla - Stella.exe
+C:\Users\Unixen\Documents\Visual Studio 2015\Projects\Ancilla - Stella\Ancilla - Stella\obj\x86\Debug\Ancilla - Stella.pdb
